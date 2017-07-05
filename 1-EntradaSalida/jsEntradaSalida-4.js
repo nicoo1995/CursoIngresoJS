@@ -4,6 +4,7 @@
 */
 function Mostar()
 {
-	
+	var dato;
+	dato=prompt
 }
 
